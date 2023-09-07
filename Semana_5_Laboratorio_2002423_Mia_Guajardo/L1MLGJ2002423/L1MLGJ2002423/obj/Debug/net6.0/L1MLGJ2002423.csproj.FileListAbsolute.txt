@@ -1,0 +1,14 @@
+C:\Users\miagu\Downloads\Semana_5_Laboratorio_2002423_Mia_Guajardo\L1MLGJ2002423\L1MLGJ2002423\bin\Debug\net6.0\L1MLGJ2002423.exe
+C:\Users\miagu\Downloads\Semana_5_Laboratorio_2002423_Mia_Guajardo\L1MLGJ2002423\L1MLGJ2002423\bin\Debug\net6.0\L1MLGJ2002423.deps.json
+C:\Users\miagu\Downloads\Semana_5_Laboratorio_2002423_Mia_Guajardo\L1MLGJ2002423\L1MLGJ2002423\bin\Debug\net6.0\L1MLGJ2002423.runtimeconfig.json
+C:\Users\miagu\Downloads\Semana_5_Laboratorio_2002423_Mia_Guajardo\L1MLGJ2002423\L1MLGJ2002423\bin\Debug\net6.0\L1MLGJ2002423.dll
+C:\Users\miagu\Downloads\Semana_5_Laboratorio_2002423_Mia_Guajardo\L1MLGJ2002423\L1MLGJ2002423\bin\Debug\net6.0\L1MLGJ2002423.pdb
+C:\Users\miagu\Downloads\Semana_5_Laboratorio_2002423_Mia_Guajardo\L1MLGJ2002423\L1MLGJ2002423\obj\Debug\net6.0\L1MLGJ2002423.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miagu\Downloads\Semana_5_Laboratorio_2002423_Mia_Guajardo\L1MLGJ2002423\L1MLGJ2002423\obj\Debug\net6.0\L1MLGJ2002423.AssemblyInfoInputs.cache
+C:\Users\miagu\Downloads\Semana_5_Laboratorio_2002423_Mia_Guajardo\L1MLGJ2002423\L1MLGJ2002423\obj\Debug\net6.0\L1MLGJ2002423.AssemblyInfo.cs
+C:\Users\miagu\Downloads\Semana_5_Laboratorio_2002423_Mia_Guajardo\L1MLGJ2002423\L1MLGJ2002423\obj\Debug\net6.0\L1MLGJ2002423.csproj.CoreCompileInputs.cache
+C:\Users\miagu\Downloads\Semana_5_Laboratorio_2002423_Mia_Guajardo\L1MLGJ2002423\L1MLGJ2002423\obj\Debug\net6.0\L1MLGJ2002423.dll
+C:\Users\miagu\Downloads\Semana_5_Laboratorio_2002423_Mia_Guajardo\L1MLGJ2002423\L1MLGJ2002423\obj\Debug\net6.0\refint\L1MLGJ2002423.dll
+C:\Users\miagu\Downloads\Semana_5_Laboratorio_2002423_Mia_Guajardo\L1MLGJ2002423\L1MLGJ2002423\obj\Debug\net6.0\L1MLGJ2002423.pdb
+C:\Users\miagu\Downloads\Semana_5_Laboratorio_2002423_Mia_Guajardo\L1MLGJ2002423\L1MLGJ2002423\obj\Debug\net6.0\L1MLGJ2002423.genruntimeconfig.cache
+C:\Users\miagu\Downloads\Semana_5_Laboratorio_2002423_Mia_Guajardo\L1MLGJ2002423\L1MLGJ2002423\obj\Debug\net6.0\ref\L1MLGJ2002423.dll
