@@ -37,6 +37,7 @@
 
             Console.WriteLine("Desea ingresar otra secuencia de numeros?");
             Console.WriteLine("Si lo desea, presiones 0, si no lo desea, presione 1.");
+            opcionmen = Convert.ToInt16(Console.ReadLine());
             if (opcionmen == 1)
             {
                 Console.WriteLine("Usted ingreso los siguiente numeros");
