@@ -1,0 +1,14 @@
+C:\Users\miagu\Downloads\prueba\Proyecto2_MiaGuajardo\Proyecto2_MiaGuajardo\bin\Debug\net6.0\Proyecto2_MiaGuajardo.exe
+C:\Users\miagu\Downloads\prueba\Proyecto2_MiaGuajardo\Proyecto2_MiaGuajardo\bin\Debug\net6.0\Proyecto2_MiaGuajardo.deps.json
+C:\Users\miagu\Downloads\prueba\Proyecto2_MiaGuajardo\Proyecto2_MiaGuajardo\bin\Debug\net6.0\Proyecto2_MiaGuajardo.runtimeconfig.json
+C:\Users\miagu\Downloads\prueba\Proyecto2_MiaGuajardo\Proyecto2_MiaGuajardo\bin\Debug\net6.0\Proyecto2_MiaGuajardo.dll
+C:\Users\miagu\Downloads\prueba\Proyecto2_MiaGuajardo\Proyecto2_MiaGuajardo\bin\Debug\net6.0\Proyecto2_MiaGuajardo.pdb
+C:\Users\miagu\Downloads\prueba\Proyecto2_MiaGuajardo\Proyecto2_MiaGuajardo\obj\Debug\net6.0\Proyecto2_MiaGuajardo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miagu\Downloads\prueba\Proyecto2_MiaGuajardo\Proyecto2_MiaGuajardo\obj\Debug\net6.0\Proyecto2_MiaGuajardo.AssemblyInfoInputs.cache
+C:\Users\miagu\Downloads\prueba\Proyecto2_MiaGuajardo\Proyecto2_MiaGuajardo\obj\Debug\net6.0\Proyecto2_MiaGuajardo.AssemblyInfo.cs
+C:\Users\miagu\Downloads\prueba\Proyecto2_MiaGuajardo\Proyecto2_MiaGuajardo\obj\Debug\net6.0\Proyecto2_MiaGuajardo.csproj.CoreCompileInputs.cache
+C:\Users\miagu\Downloads\prueba\Proyecto2_MiaGuajardo\Proyecto2_MiaGuajardo\obj\Debug\net6.0\Proyecto2_MiaGuajardo.dll
+C:\Users\miagu\Downloads\prueba\Proyecto2_MiaGuajardo\Proyecto2_MiaGuajardo\obj\Debug\net6.0\refint\Proyecto2_MiaGuajardo.dll
+C:\Users\miagu\Downloads\prueba\Proyecto2_MiaGuajardo\Proyecto2_MiaGuajardo\obj\Debug\net6.0\Proyecto2_MiaGuajardo.pdb
+C:\Users\miagu\Downloads\prueba\Proyecto2_MiaGuajardo\Proyecto2_MiaGuajardo\obj\Debug\net6.0\Proyecto2_MiaGuajardo.genruntimeconfig.cache
+C:\Users\miagu\Downloads\prueba\Proyecto2_MiaGuajardo\Proyecto2_MiaGuajardo\obj\Debug\net6.0\ref\Proyecto2_MiaGuajardo.dll
